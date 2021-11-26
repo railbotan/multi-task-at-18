@@ -14,13 +14,13 @@ def is_prime(n):
 
 
 def main():
-    time1 = time()
     with concurrent.futures.ProcessPoolExecutor(max_workers=2) as executor:
         for answer in zip(executor.map(is_prime, range(3))):
             print(answer)
-    time2 = time()
-    print(time2 - time1)
 
 
 if __name__ == '__main__':
+    time1 = time()
     main()
+    time2 = time()
+    print(time2 - time1)
