@@ -73,7 +73,7 @@
 
 Время: 62 секунды
 
-![](https://github.com/alyonafilyaeva/multi-task-at-18/blobAlyona_Filyaeva/screens/10_process_dis.jpg)
+![](https://github.com/alyonafilyaeva/multi-task-at-18/blob/Alyona_Filyaeva/screens/10_process_dis.jpg)
 
 Загруженность: ЦП-84%, память-91%, диск-7%
 
