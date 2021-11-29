@@ -1,4 +1,4 @@
-#IO-bound
+#IO-bound 
 ##Синхронная проверка ссылок:
 ###Время выполнения
 ![img.png](Screens/io_time1.png)
